@@ -8,7 +8,6 @@ let message = {
         'forever unhittable ',
         'grrrrrrrrr ', 
         'irisware > all ', 
-        'femboys >>> ', 
         'rip script-ware ', 
         'rip v3rmillion ', 
         'one day or day one? '
